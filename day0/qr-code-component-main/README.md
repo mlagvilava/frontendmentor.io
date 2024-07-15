@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mlagvilava/frontendmentor.io/tree/main/day0/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/mlagvilava/frontendmentor.io/tree/main/day0/qr-code-component-main)
+- Live Site URL: [Vercel-link works in Firefox](https://first-frontendmentor-io-roan.vercel.app/)
 
 
 ### Built with
@@ -27,4 +27,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mlagvilava)
+- Frontend Mentor - [@mlagvilava](https://www.frontendmentor.io/profile/mlagvilava)
